@@ -1,6 +1,8 @@
 [![Lighthouse PWA Test](https://github.com/ivelin/olympus-frontend/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/ivelin/olympus-frontend/actions/workflows/lighthouse.yml)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 [![OHM Discord](https://img.shields.io/badge/chat-on%20discord-7289DA.svg)](https://discord.gg/gGZUMVDuhQ)
+[![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/t3chnicallyinclined/bcb9eb0fc860fcb2a0aaff5e65f8aeec/raw/t3chnicallyinclined/olympus-frontend__heads_main.json)]
+
 
 # [Ω Olympus Frontend](https://app.olympusdao.finance/)
 
