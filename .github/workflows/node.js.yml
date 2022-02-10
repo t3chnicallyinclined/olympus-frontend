@@ -68,7 +68,7 @@ jobs:
       name: Create the Badge
       uses: schneegans/dynamic-badges-action@v1.0.0
       with:
-        auth: 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 # ${{ secrets.GIT_SECRET }} 
+        auth: ${{ secrets.GIT_SECRET }} 
         gistID: bcb9eb0fc860fcb2a0aaff5e65f8aeec
         filename: t3chnicallyinclined/olympus-frontend__${{ env.BRANCH }}.json
         label: Test Coverage
